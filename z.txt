@@ -1,0 +1,54 @@
+{
+  "lists": [
+    {
+      "id": 1,
+      "type": "lists",
+      "title": "chores",
+      "tasks": [
+        {
+          "id": 1,
+          "type": "todos",
+          "description": "cleaning",
+          "isCompleted": false
+        },
+        {
+          "id": 2,
+          "type": "todos",
+          "description": "washing",
+          "isCompleted": false
+        },
+        {
+          "id": 3,
+          "type": "todos",
+          "description": "messing",
+          "isCompleted": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lists",
+      "title": "studies",
+      "tasks": [
+        {
+          "id": 1,
+          "type": "todos",
+          "description": "chemistry",
+          "isCompleted": false
+        },
+        {
+          "id": 2,
+          "type": "todos",
+          "description": "biology",
+          "isCompleted": false
+        },
+        {
+          "id": 3,
+          "type": "todos",
+          "description": "history",
+          "isCompleted": false
+        }
+      ]
+    }
+  ]
+}

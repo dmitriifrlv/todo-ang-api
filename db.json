@@ -1,0 +1,50 @@
+{
+  "lists": [
+    {
+      "id": 1,
+      "title": "chores"
+    },
+    {
+      "id": 2,
+      "title": "studies"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "description": "cleaning",
+      "isCompleted": false,
+      "listsId": 1
+    },
+    {
+      "id": 2,
+      "description": "washing",
+      "isCompleted": false,
+      "listsId": 1
+    },
+    {
+      "id": 3,
+      "description": "messing",
+      "isCompleted": false,
+      "listsId": 1
+    },
+    {
+      "description": "zumba",
+      "id": "df15bf45-c7ec-4a26-8b6a-0aa164fd9fbb",
+      "isCompleted": true,
+      "listsId": 2
+    },
+    {
+      "description": "salad",
+      "id": "de3dae46-aa01-4063-ab73-fa954b2eba10",
+      "isCompleted": true,
+      "listsId": 1
+    },
+    {
+      "description": "swimming",
+      "id": "dcb065d8-2738-4632-9a4c-a913426e7a1b",
+      "isCompleted": true,
+      "listsId": 2
+    }
+  ]
+}
