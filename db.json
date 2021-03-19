@@ -2,11 +2,13 @@
   "lists": [
     {
       "id": 1,
-      "title": "chores"
+      "title": "chores",
+      "numberOfAllTasks": 0
     },
     {
       "id": 2,
-      "title": "studies"
+      "title": "studies",
+      "numberOfAllTasks": 0
     }
   ],
   "tasks": [
