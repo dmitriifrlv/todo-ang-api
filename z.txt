@@ -2,53 +2,51 @@
   "lists": [
     {
       "id": 1,
-      "type": "lists",
       "title": "chores",
-      "tasks": [
-        {
-          "id": 1,
-          "type": "todos",
-          "description": "cleaning",
-          "isCompleted": false
-        },
-        {
-          "id": 2,
-          "type": "todos",
-          "description": "washing",
-          "isCompleted": false
-        },
-        {
-          "id": 3,
-          "type": "todos",
-          "description": "messing",
-          "isCompleted": false
-        }
-      ]
+      "numberOfAllTasks": 0
     },
     {
       "id": 2,
-      "type": "lists",
       "title": "studies",
-      "tasks": [
-        {
-          "id": 1,
-          "type": "todos",
-          "description": "chemistry",
-          "isCompleted": false
-        },
-        {
-          "id": 2,
-          "type": "todos",
-          "description": "biology",
-          "isCompleted": false
-        },
-        {
-          "id": 3,
-          "type": "todos",
-          "description": "history",
-          "isCompleted": false
-        }
-      ]
+      "numberOfAllTasks": 0
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "description": "cleaning",
+      "isCompleted": false,
+      "listsId": 1
+    },
+    {
+      "id": 2,
+      "description": "washing",
+      "isCompleted": false,
+      "listsId": 1
+    },
+    {
+      "id": 3,
+      "description": "messing",
+      "isCompleted": false,
+      "listsId": 1
+    },
+    {
+      "description": "zumba",
+      "id": "df15bf45-c7ec-4a26-8b6a-0aa164fd9fbb",
+      "isCompleted": true,
+      "listsId": 2
+    },
+    {
+      "description": "salad",
+      "id": "de3dae46-aa01-4063-ab73-fa954b2eba10",
+      "isCompleted": true,
+      "listsId": 1
+    },
+    {
+      "description": "swimming",
+      "id": "dcb065d8-2738-4632-9a4c-a913426e7a1b",
+      "isCompleted": true,
+      "listsId": 2
     }
   ]
 }

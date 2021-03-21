@@ -7,10 +7,6 @@ server.use(middlewares)
 server.use(jsonServer.bodyParser)
 server.use(jsonServer.bodyParser)
 
-server.post('lists/:id/tasks', (req, res)=>{
-  res.jsonp
-})
-
 server.use(router)
 server.use(jsonServer.rewriter({
   "/lists/:id/tasks": "/tasks?listsId=:id"
