@@ -9,7 +9,7 @@
     {
       "title": "Chores",
       "id": "5aabd5ab-4f51-4d90-a735-9a789c1ce040",
-      "numberOfAllTasks": 5,
+      "numberOfAllTasks": 1,
       "numberOfCompletedTasks": 0
     }
   ],
@@ -21,32 +21,8 @@
       "listsId": "57d8950c-816f-4473-bfb4-6cfb27eb249b"
     },
     {
-      "description": "f",
+      "description": "cleaning",
       "id": "28fc3134-d784-446d-a083-94ff275c01e6",
-      "isCompleted": false,
-      "listsId": "5aabd5ab-4f51-4d90-a735-9a789c1ce040"
-    },
-    {
-      "description": "f",
-      "id": "88f8e370-7240-4aed-91fc-14eaf1cb821d",
-      "isCompleted": false,
-      "listsId": "5aabd5ab-4f51-4d90-a735-9a789c1ce040"
-    },
-    {
-      "description": "f",
-      "id": "5337311f-31a7-43bd-a7bf-cacdcf8e1310",
-      "isCompleted": false,
-      "listsId": "5aabd5ab-4f51-4d90-a735-9a789c1ce040"
-    },
-    {
-      "description": "d",
-      "id": "834ad550-4f91-4435-a569-82da536bbcca",
-      "isCompleted": false,
-      "listsId": "5aabd5ab-4f51-4d90-a735-9a789c1ce040"
-    },
-    {
-      "description": "d",
-      "id": "4588a028-f99a-4683-bbb6-31af1cdcfff3",
       "isCompleted": false,
       "listsId": "5aabd5ab-4f51-4d90-a735-9a789c1ce040"
     }
